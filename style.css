@@ -1,0 +1,38 @@
+body{
+   // font-family: 'poppins',sans-serif;
+    font-size: medium;
+
+}
+
+.text{
+   
+    padding: 200px;
+    height: 100px;
+    color: black;
+    text-align: center;
+    font-size: large;
+    background: url(laptop-gb0be3b140_1920.jpg)no-repeat ;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.btn{
+    text-align: center;
+
+}
+.container-img{
+    padding :100px;
+    width: center;
+}
+.container{
+    padding: 50px;
+    width: 90%;
+}
+.hover{
+    text-decoration: none;
+    color: orange;
+}
+.copy{
+    font-family: sans-serif;
+    text-align: center;
+    //padding: 50%;
+}
